@@ -1,5 +1,5 @@
 ## Makes a special 'matrix' object and generates inverse of the matrix. 
-## Additionally it has cache mechanism to store the computed inverse matrix so avoid the repeated computation.
+## Additionally it has cache mechanism to store the computed inverse matrix to avoid the repeated computation.
 
 ## makeCacheMatric function helps to create special 'matrix' object with set , get , setinverse and getinverse methods
 
